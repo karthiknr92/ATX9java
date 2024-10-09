@@ -5,7 +5,7 @@ public class mulitpsop {
         Scanner sc= new Scanner(System.in);
         System.out.println("enter the number");
         int a = sc.nextInt();
-        // int a=6;
+        
         System.out.println();
         System.out.printf("%d*%d=%d",a,1,a*1);
         System.out.println();
