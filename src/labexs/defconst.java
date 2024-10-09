@@ -6,7 +6,7 @@ public class defconst {
     public static final double PERFORMANCE_RATING = 92.25 ;
 
     public static void main(String[] args) {
-        System.out.println("NAME :" +NAME);
+        System.out.println("\nNAME :" +NAME);
         System.out.println("AGE :" +AGE);
         System.out.println("LOCATION :" +LOCATION);
         System.out.println("PERFORMANCE RATING :" +PERFORMANCE_RATING);
