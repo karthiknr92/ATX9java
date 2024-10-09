@@ -1,3 +1,5 @@
+package labexs;
+
 public class exp {
     public static void main(String[] args) {
         short s=-53;

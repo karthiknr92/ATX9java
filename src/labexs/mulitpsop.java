@@ -2,12 +2,12 @@ package labexs;
 
 import java.util.Scanner;
 
-public class soptb {
+public class mulitpsop {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("enter the number");
         int a = sc.nextInt();
-
+        
         System.out.println();
         System.out.printf("%d * %d = %d",a,1,a*1);
         System.out.println();
