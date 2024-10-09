@@ -1,8 +1,11 @@
-package labexs;
+import java.util.Scanner;
 
-public class lab_09_10 {
+public class mulitpsop {
     public static void main(String[] args) {
-        int a=6;
+        Scanner sc= new Scanner(System.in);
+        System.out.println("enter the number");
+        int a = sc.nextInt();
+        // int a=6;
         System.out.println();
         System.out.printf("%d*%d=%d",a,1,a*1);
         System.out.println();
