@@ -2,7 +2,7 @@ package labexs;
 
 import java.util.Scanner;
 
-public class task_1610 {
+public class task_1610_max {
     public static void main(String[] args) {
         Scanner sa= new Scanner(System.in);
         System.out.println("enter 1st num number ");

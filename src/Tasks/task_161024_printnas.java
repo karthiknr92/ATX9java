@@ -21,5 +21,6 @@ public class task_161024_printnas {
         System.out.println("Name : "+a);
         System.out.println("Age : "+b);
         System.out.println("Salary: "+c);
+
     }
 }
