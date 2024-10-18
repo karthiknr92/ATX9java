@@ -20,6 +20,8 @@ public class salary {
 
         // Display net salary
         System.out.printf("The net salary is: ₹%.2f\n", netSalary);
+
+        scanner.close();
     }
 
     // Function to calculate net salary
